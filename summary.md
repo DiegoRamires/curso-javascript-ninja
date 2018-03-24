@@ -1,7 +1,5 @@
 ## Sumário
 
-Aqui você pode ver todo o conteúdo do curso disponível:
-
 - Variáveis e tipos de dados
 - Operadores aritméticos
 - Operadores de igualdade e relacionais
